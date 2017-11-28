@@ -1,4 +1,8 @@
  //обычный массив
+#include <iostream>
+
+using namespace std;
+
 int arr(int x, int y, int z){
     int a[x];
     a[0] = 0;
